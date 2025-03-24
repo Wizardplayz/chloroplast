@@ -1,0 +1,24 @@
+h1{
+    color: white;
+
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color:#8DC43B ;
+
+}
+
+header{
+    height: 30vh;
+    display: flex;
+    flex-direction: column;
+    font-size: 1.5rem;
+
+}
+
+main ul li{
+    color: white;
+    text-decoration: none;
+    list-style-type:none;
+}
