@@ -30,3 +30,6 @@ main{
     align-items: center;
     justify-content: center;
 }
+spline-viewer{
+    width:100%;
+}
