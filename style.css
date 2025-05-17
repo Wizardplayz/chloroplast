@@ -40,3 +40,9 @@ ul {
   padding-left: 20px;
   line-height: 1.8; /* Adds vertical spacing */
 }
+
+spline-viewer {
+  width: 600px;
+  height: 400px;
+  max-width: 100%;
+}
