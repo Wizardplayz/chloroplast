@@ -20,6 +20,10 @@ header{
 }
 
 main ul li{
+    h1{
+    color: white;
+font-family: 'Roboto', sans-serif; 
+}
     color: white;
     text-decoration: none;
     list-style-type:none;
@@ -30,6 +34,4 @@ main{
     align-items: center;
     justify-content: center;
 }
-spline-viewer{
-    width:100%;
-}
+
